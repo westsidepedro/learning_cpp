@@ -1,0 +1,539 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"ifndef"
+			],
+			[
+				"HEADERANDPROTOTYPES_",
+				"HEADERANDPROTOTYPES_H_"
+			],
+			[
+				"your",
+				"yourChoice"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"an",
+				"animals0"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			],
+			[
+				"ar",
+				"Array"
+			],
+			[
+				"Va",
+				"Value2"
+			],
+			[
+				"Val",
+				"Value2"
+			],
+			[
+				"va",
+				"Value2"
+			],
+			[
+				"V",
+				"Value1"
+			],
+			[
+				"sci",
+				"scientific"
+			],
+			[
+				"tex",
+				"text2"
+			],
+			[
+				"nu",
+				"numberDogs"
+			],
+			[
+				"num",
+				"numberCats"
+			],
+			[
+				"numb",
+				"numberDogs"
+			],
+			[
+				"number",
+				"numberCats"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "HeaderAndPrototypes.cpp",
+			"settings":
+			{
+				"buffer_size": 625,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Cat.h",
+			"settings":
+			{
+				"buffer_size": 199,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Cat.cpp",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/CPP_RUN - RUN.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/CPP_RUN - RUN.sublime-build",
+					""
+				],
+				[
+					"Packages/User/CPP_RUN - RUN.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/CPP_RUN - RUN.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"material theme:",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Build With: C++ Single File"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 240.0,
+		"history":
+		[
+			"dir/p",
+			"if.exe",
+			"mem",
+			"UserInput.exe",
+			"fff",
+			"meme",
+			"input=memeh",
+			"UserInput",
+			"memem",
+			"me",
+			"josh"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp"
+	],
+	"file_history":
+	[
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/HeaderAndPrototypes.h",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/FunctionPassingData.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/CPP_INPUT_RUN.sublime-build",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/HeaderAndPrototypes.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/Cat.h",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/Cat.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/Classes.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/C++.tmpl",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/header/C++.tmpl",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/Batch File.tmpl",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/C.tmpl",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/Makefile.tmpl",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/CppBuilder/CppBuilder.sublime-settings",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/CppBuilder.sublime-settings",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/Makefile",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/test.h",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/test",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/LearningCpp/LearningCpp.sublime-project",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/HeaderAndPrototypes.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/HeaderAndPrototypes.h",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Cat.h",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Cat.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Cat/Cat.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Cat/Cat.h",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Cat/Header.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/CPP_RUN-CMD.sublime-build",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/CPP_RUN.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Stino/app_dir.stino-settings",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/GDit",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/GDit.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/CatTry.sublime-project",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Classes.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Classes/Classes.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Classes/Cat.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Classes/Cat.h",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/DoWhile.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/FunctionPassingData.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Functions.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/ReturnValues.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Switch.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Sizeof.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/MultiArrays.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Arrays.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/if.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/FloatingPointVar.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/BreakAndContinue.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/ForLoops.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/WhileLoop.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/ElseIf.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/AndOr.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/IfElse.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/UserInput.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Strings.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/CharBool.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Intergers.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/User Input.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/User_Input.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/run.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Outputting txt.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Blank C++ Starting Page.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning Cpp/Variables.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning C++/Blank C++ Starting Page.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning C++/Outputting txt.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Learning C++/Variables",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Variables",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Outputting txt.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/hello.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/hello.c",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/CPP_RUN - RUN.sublime-build",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/Sketches/Base Sketch to insert into.cpp",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/Sketches/Theater Chasing Rainbow.cpp",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/Internet Help for FastLED.sublime-project",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/internet help website",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/Halloween Eyes.cpp",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/Fade colors on and off whole strip.cpp",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/Kitt back and forth.cpp",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/Side to side, In to Out, Out to In.cpp",
+		"/C/Users/jpetterson/Documents/My Sublime Text Files/Twinkle.cpp",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/Stino/Default (Windows).sublime-keymap",
+		"/C/Users/jpetterson/AppData/Roaming/Sublime Text 3/Packages/User/HelloWorld.sublime-project"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 135.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "HeaderAndPrototypes.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Cat.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Cat.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppBuilder":
+	{
+		"height": 152.0
+	},
+	"output.exec":
+	{
+		"height": 229.0
+	},
+	"output.find_results":
+	{
+		"height": 136.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 149.0
+	},
+	"output.stino_panel":
+	{
+		"height": 149.0
+	},
+	"pinned_build_system": "Packages/User/CPP_RUN - RUN.sublime-build",
+	"project": "LearningCpp.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\jpetterson\\Documents\\My Sublime Text Files\\Internet Help for FastLED.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
